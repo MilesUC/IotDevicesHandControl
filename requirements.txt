@@ -1,0 +1,4 @@
+requests
+pycryptodome
+websocket-client
+python-dotenv
